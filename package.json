@@ -1,0 +1,13 @@
+{
+  "name": "arbaaz-portfolio-minimal",
+  "version": "1.0.0",
+  "description": "Exact static replica of minimal Framer portfolio for Md Arbaaz",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 serve.py",
+    "serve": "npx serve ."
+  },
+  "keywords": ["portfolio", "ux-designer", "framer"],
+  "author": "Md Arbaaz",
+  "license": "MIT"
+}
